@@ -8,7 +8,6 @@ cryptography
 cvxpy
 cycler==0.10.0
 ecos
-flask
 Flask==1.1.2
 future
 idna==2.10

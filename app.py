@@ -1,4 +1,5 @@
-from flask import Flask, render_template
+import Flask
+# from flask import Flask, render_template
 from src.common.database import Database
 
 import matplotlib
